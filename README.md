@@ -13,11 +13,11 @@ It does not contain api calls and is only based on locally stored user input val
   <a href="#license">License</a> •
 </p>
 
-<!--p float="left">
+<p float="left">
   <img src="/assets/screenshots/screenshot01.jpg" width="200" />
   <img src="/assets/screenshots/screenshot02.jpg" width="200" />
   <img src="/assets/screenshots/screenshot03.jpg" width="200" />
-</p-->
+</p>
 
 ## Features
 
