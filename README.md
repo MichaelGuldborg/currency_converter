@@ -51,12 +51,19 @@ $ flutter run
 
 ## Download
 
-<a href="https://play.google.com/store/apps/details?id=aaa.bbb.ccc"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="220" ></a>
-<a href="#"><img src="https://airhopping.blob.core.windows.net/static//landings/img/app-store-badge.png" width="220">
+<a href="https://play.google.com/store/apps/details?id=aaa.bbb.ccc">
+<div style="background: #fff;padding: 8px 10px;display: flex;align-items: center;justify-content: center;width: 190px;border-radius: 50px;box-shadow: 0 5px 20px 0 rgba(0,0,0,.25);border: 1px solid #292f6e;margin-top: 8px;">
+    Google Playstore
+</div>
+</a>
+<a href="#">
+<div style="background: #fff;padding: 8px 10px;display: flex;align-items: center;justify-content: center;width: 190px;border-radius: 50px;box-shadow: 0 5px 20px 0 rgba(0,0,0,.25);border: 1px solid #292f6e;margin-top: 8px;">
+    iOS Appstore
+</div>
 </a>
 
 ## Team
-App developer - [Michael Guldborg](http://michaelguldborg.dk)\
+App developer - [Michael Guldborg](http://michaelguldborg.dk)
 
 ## License
 [MIT](/LICENSE)
