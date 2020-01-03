@@ -52,14 +52,10 @@ $ flutter run
 ## Download
 
 <a href="https://play.google.com/store/apps/details?id=aaa.bbb.ccc">
-<div style="background: #fff;padding: 8px 10px;display: flex;align-items: center;justify-content: center;width: 190px;border-radius: 50px;box-shadow: 0 5px 20px 0 rgba(0,0,0,.25);border: 1px solid #292f6e;margin-top: 8px;">
-    Google Playstore
-</div>
+<div>Google Playstore</div>
 </a>
 <a href="#">
-<div style="background: #fff;padding: 8px 10px;display: flex;align-items: center;justify-content: center;width: 190px;border-radius: 50px;box-shadow: 0 5px 20px 0 rgba(0,0,0,.25);border: 1px solid #292f6e;margin-top: 8px;">
-    iOS Appstore
-</div>
+<div>iOS Appstore</div>
 </a>
 
 ## Team
